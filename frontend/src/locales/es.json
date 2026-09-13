@@ -2184,8 +2184,7 @@
       "indexHidden": "ejecuciones de índice ocultas"
     },
     "runningNow": {
-      "title": "En ejecución",
-      "queued": "En cola"
+      "title": "En ejecución"
     },
     "health": {
       "backup": "Copia de seguridad",
@@ -2208,7 +2207,13 @@
       "repositories": "{{count}} repositorios",
       "repositories_one": "{{count}} repositorio",
       "members": "{{count}} ejecuciones",
-      "members_one": "{{count}} ejecución"
+      "members_one": "{{count}} ejecución",
+      "trigger": {
+        "manual": "Manual",
+        "schedule": "Programado",
+        "retry": "Reintento",
+        "availability": "Disponibilidad"
+      }
     }
   },
   "availabilitySchedule": {
